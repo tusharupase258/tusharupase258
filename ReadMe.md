@@ -22,7 +22,7 @@ Building expertise in DevOps practices and technologies, focusing on:
 - End-to-end monitoring, observability, and security scanning  
 
 💡 **Fun Fact:**  
-I enjoy turning manual, repetitive tasks into elegant automated solutions with IaC and pipelines. Outside of work, I explore productivity hacks and mentor budding engineers. 🚀  
+I enjoy turning manual, repetitive tasks into elegant automated solutions with IaC and pipelines. Outside of work, I explore productivity hacks. 🚀  
 
 🌍 **Connect with Me:**  
 Let’s collaborate and create impactful solutions together. Check out my repositories to see my latest projects, pipelines, and IaC configurations.  
