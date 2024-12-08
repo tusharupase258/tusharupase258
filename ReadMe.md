@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:  <br>DevOps Technologies such Terraform, Azure DevOps, CI/CD Pipeline, Git, Github, Docker, Kubernetes<br>👯 I’m looking to collaborate on<br> DevOps Projects.<br>🌱 Let's go for everything as <br>code
+🔭 I’m currently working on:  <br>DevOps Technologies such Terraform, Azure DevOps, CI/CD Pipeline, Git, Github, Docker, Kubernetes<br>👯 I’m looking to collaborate on<br> DevOps Projects.<br>🌱 Let's go for everything as code <br>
 
 
 ## 🌐 Socials:
