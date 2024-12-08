@@ -1,5 +1,31 @@
 # 💫 About Me:
-🔭 I’m currently working on:  <br>DevOps Technologies such Terraform, Azure DevOps, CI/CD Pipeline, Git, Github, Docker, Kubernetes<br>👯 I’m looking to collaborate on<br> DevOps Projects.<br>🌱 Let's go for everything as code <br>
+
+🔭 **Currently Working On:**  
+Mastering and implementing DevOps practices, focusing on:  
+- **Infrastructure as Code (IaC):** Terraform, Azure DevOps, GitHub Actions  
+- **Containerization & Orchestration:** Docker, Kubernetes  
+- **CI/CD Pipelines:** Designing and optimizing automated workflows  
+- **Monitoring & Cost Optimization:** Prometheus, Grafana, Azure Cost Management  
+
+👯 **Looking to Collaborate On:**  
+- DevOps & DevSecOps projects to build secure, scalable, and automated solutions  
+- Open-source tools for enhancing developer productivity  
+
+🌱 **Philosophy:**  
+"Everything as Code" – Automating infrastructure, security, and policies to drive innovation.  
+
+📊 **Key Interests:**  
+- Cloud-native technologies (Azure, Kubernetes)  
+- Monitoring underutilized resources to save costs  
+- Continuous Integration & Deployment  
+- Streamlining application delivery processes  
+
+💡 **Fun Fact:**  
+I thrive on solving complex infrastructure challenges and optimizing systems for performance and scalability. Outside of tech, you’ll find me exploring new productivity hacks or mentoring aspiring engineers. 🚀  
+
+🌍 **Connect with Me:**  
+Let’s collaborate and create impactful solutions together. Explore my repositories for insights into my latest projects and contributions.  
+
 
 
 ## 🌐 Socials:
