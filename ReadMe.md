@@ -1,30 +1,31 @@
 # 💫 About Me:
 
 🔭 **Currently Working On:**  
-Mastering and implementing DevOps practices, focusing on:  
-- **Infrastructure as Code (IaC):** Terraform, Azure DevOps, GitHub Actions  
+Building expertise in DevOps practices and technologies, focusing on:  
+- **Infrastructure as Code (IaC):** Terraform, ARM templates  
+- **CI/CD Pipelines:** YAML pipelines in Azure DevOps, GitHub Actions  
 - **Containerization & Orchestration:** Docker, Kubernetes  
-- **CI/CD Pipelines:** Designing and optimizing automated workflows  
-- **Monitoring & Cost Optimization:** Prometheus, Grafana, Azure Cost Management  
+- **Monitoring & Cost Optimization:** Prometheus, Grafana, Azure Monitor, Cost Management  
 
 👯 **Looking to Collaborate On:**  
-- DevOps & DevSecOps projects to build secure, scalable, and automated solutions  
-- Open-source tools for enhancing developer productivity  
+- **DevOps & DevSecOps Projects:** Secure, scalable, and automated solutions  
+- **Open-source Contributions:** Tools for infrastructure automation and CI/CD  
 
 🌱 **Philosophy:**  
-"Everything as Code" – Automating infrastructure, security, and policies to drive innovation.  
+"Everything as Code" – Automating infrastructure, pipelines, security, and governance for faster innovation.  
 
 📊 **Key Interests:**  
-- Cloud-native technologies (Azure, Kubernetes)  
-- Monitoring underutilized resources to save costs  
-- Continuous Integration & Deployment  
-- Streamlining application delivery processes  
+- Cloud-native technologies with **Azure** as the core  
+- Designing efficient **YAML-based CI/CD pipelines** in Azure DevOps  
+- Cost-saving strategies like identifying and optimizing underutilized resources  
+- End-to-end monitoring and observability  
 
 💡 **Fun Fact:**  
-I thrive on solving complex infrastructure challenges and optimizing systems for performance and scalability. Outside of tech, you’ll find me exploring new productivity hacks or mentoring aspiring engineers. 🚀  
+I enjoy turning manual, repetitive tasks into elegant automated solutions with IaC and pipelines. Outside of work, I explore productivity hacks and mentor budding engineers. 🚀  
 
 🌍 **Connect with Me:**  
-Let’s collaborate and create impactful solutions together. Explore my repositories for insights into my latest projects and contributions.  
+Let’s collaborate and create impactful solutions together. Check out my repositories to see my latest projects, pipelines, and IaC configurations.  
+
 
 
 
