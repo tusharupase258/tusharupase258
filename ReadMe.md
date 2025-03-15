@@ -27,7 +27,7 @@ I enjoy turning manual, repetitive tasks into elegant automated solutions with I
 🌍 **Connect with Me:**  
 Let’s collaborate and create impactful solutions together. Check out my repositories to see my latest projects, pipelines, and IaC configurations.  
 
-🌐 **Portfolio:** [Tushar Upase's Portfolio](https://your-portfolio-link.com)  
+🌐 **Portfolio:** [Tushar Upase's Portfolio](https://devsecopstushar.tech/)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-upase/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tushu_a_r258/) 
