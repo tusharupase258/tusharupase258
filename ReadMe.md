@@ -1,5 +1,5 @@
 <!-- <p align="center">
-  <img src="https://github.com/tusharupase258/tusharupase258/raw/main/banner.png" alt="Tushar Upase | Azure DevOps Engineer" />
+  <img src="https://github.com/tusharupase258/tusharupase258/raw/main/banner2.png" alt="Tushar Upase | Azure DevOps Engineer" />
 </p> -->
 
 <!-- Animated Banner -->
