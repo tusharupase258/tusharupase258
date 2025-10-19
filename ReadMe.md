@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tusharupase258/tusharupase258/raw/main/banner.png" alt="Tushar Upase | Azure DevOps Engineer" />
+</p>
+
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Tushar+Upase!;+Azure+DevOps+Engineer;💻+Terraform+%7C+Docker+%7C+Kubernetes+%7C+GitHub+Actions;🌐+Passionate+About+Cloud+Automation+%26+IaC" alt="Tushar Upase Animated Title">
