@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/tusharupase258/tusharupase258/raw/main/banner2.png" alt="Tushar Upase | Azure DevOps Engineer" />
-</p> -->
+</p> 
 
 <!-- Animated Banner -->
 <p align="center">
