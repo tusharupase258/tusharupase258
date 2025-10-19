@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Tushar Upase - Azure DevOps Engineer">
+  <defs>
+    <!-- gradient -->
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+
+    <!-- soft glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- mask for typing reveal (word-by-word) -->
+    <mask id="reveal_mask">
+      <rect x="0" y="0" width="1280" height="360" fill="white"/>
+    </mask>
+
+    <style type="text/css"><![CDATA[
+      .bg { fill: url(#g1); opacity: 0.14; }
+      .panel { fill: rgba(0,0,0,0.35); }
+      .glowCircle { fill: url(#g1); opacity:0.9; filter:url(#glow); transform-origin: 90% 25%; animation: float 6s ease-in-out infinite; }
+      @keyframes float { 0%{transform:translateY(0) scale(1)} 50%{transform:translateY(-8px) scale(1.02)} 100%{transform:translateY(0) scale(1)} }
+
+      .name { font: 700 44px 'Fira Sans', Roboto, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial; fill: #ffffff; }
+      .title { font: 500 24px 'Fira Sans', Roboto, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial; fill: #f3f4f6; opacity:0.95; }
+
+      /* word reveal animations */
+      .word { opacity:0; }
+      .w1 { animation: reveal 0.6s ease forwards 0.4s; }
+      .w2 { animation: reveal 0.6s ease forwards 1.0s; }
+      .w3 { animation: reveal 0.6s ease forwards 1.6s; }
+      .w4 { animation: reveal 0.6s ease forwards 2.2s; }
+
+      .t1 { opacity:0; animation: reveal 0.6s ease forwards 2.8s; }
+      .t2 { opacity:0; animation: reveal 0.6s ease forwards 3.4s; }
+
+      @keyframes reveal {
+        0% { opacity: 0; transform: translateY(6px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+
+      /* subtle sheen */
+      .sheen { fill: white; opacity: 0.06; filter: blur(12px); transform-origin: 0 0; animation: sheen 3.5s linear infinite; }
+      @keyframes sheen { 0%{transform: translateX(-40%)} 100%{transform: translateX(140%)} }
+
+      /* responsive tweaks (keeps text centered) */
+      @media (max-width:800px) {
+        .name { font-size: 28px; }
+        .title { font-size: 16px; }
+      }
+    ]]></style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1280" height="360" class="bg"/>
+
+  <!-- left panel shape -->
+  <g transform="translate(60,40)">
+    <rect x="0" y="0" rx="18" ry="18" width="1160" height="280" fill="#0b1220" opacity="0.55"/>
+    <!-- decorative glow circle -->
+    <g transform="translate(980,-40)">
+      <circle class="glowCircle" cx="0" cy="80" r="120" />
+    </g>
+
+    <!-- sheen overlay -->
+    <rect x="0" y="0" width="1160" height="280" rx="18" ry="18" class="sheen" />
+
+    <!-- content area -->
+    <g transform="translate(56,52)" mask="url(#reveal_mask)">
+      <!-- Name line with word reveals -->
+      <text x="0" y="48" class="name">
+        <tspan class="word w1">Hi,</tspan>
+        <tspan dx="10" class="word w2">I'm</tspan>
+        <tspan dx="12" class="word w3">Tushar</tspan>
+        <tspan dx="8" class="word w4">Upase</tspan>
+      </text>
+
+      <!-- Title line -->
+      <text x="0" y="92" class="title">
+        <tspan class="t1">Azure DevOps Engineer</tspan>
+        <tspan dx="12" class="t2"> • Terraform • Docker • Kubernetes</tspan>
+      </text>
+
+      <!-- small tagline -->
+      <text x="0" y="136" font-size="14" fill="#cbd5e1" opacity="0.95">
+        Automating cloud & infra with IaC, CI/CD and GitOps
+      </text>
+
+      <!-- optional small badges (visual) -->
+      <g transform="translate(0,160)" opacity="0.95">
+        <!-- simple rounded badge -->
+        <rect x="0" y="0" rx="10" ry="10" width="160" height="36" fill="#0ea5e9"/>
+        <text x="18" y="24" font-size="14" font-weight="600" fill="#021024">Terraform</text>
+
+        <rect x="176" y="0" rx="10" ry="10" width="110" height="36" fill="#7c3aed"/>
+        <text x="200" y="24" font-size="14" font-weight="600" fill="#fff">Docker</text>
+
+        <rect x="296" y="0" rx="10" ry="10" width="150" height="36" fill="#ef4444"/>
+        <text x="322" y="24" font-size="14" font-weight="600" fill="#fff">Kubernetes</text>
+      </g>
+    </g>
+  </g>
+</svg>
