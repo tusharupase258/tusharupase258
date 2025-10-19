@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tusharupase258/tusharupase258/raw/main/banner.svg" alt="Tushar Upase | Azure DevOps Engineer" />
+  <img src="https://github.com/tusharupase258/tusharupase258/blob/main/banner.svg" alt="Tushar Upase | Azure DevOps Engineer" />
 </p>
 
 <p align="center">
