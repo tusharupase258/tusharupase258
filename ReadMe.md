@@ -1,17 +1,11 @@
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://github.com/tusharupase258/tusharupase258/blob/main/banner.svg" alt="Tushar Upase | Azure DevOps Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Tushar+Upase!;+Azure+DevOps+Engineer;💻+Terraform+%7C+Docker+%7C+Kubernetes+%7C+GitHub+Actions;🌐+Passionate+About+Cloud+Automation+%26+IaC" alt="Tushar Upase Animated Title">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=480&lines=Azure+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes+%7C+Helm+%7C+Argo+CD;Automating+Infrastructure+and+CI%2FCD+Pipelines" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Tushar Upase</h1>
-<h3 align="center">Azure DevOps Engineer | Terraform • Docker • Kubernetes • GitHub Actions</h3>
 
 ---
 
-# 💫 About Me
+# 💫 About Me:
 
 🔭 **Currently Working On:**  
 Building expertise in DevOps practices and technologies, focusing on:  
@@ -44,7 +38,7 @@ Let’s collaborate and create impactful solutions together. Check out my reposi
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-upase/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tushu_a_r258/)  
 
@@ -92,14 +86,7 @@ Let’s collaborate and create impactful solutions together. Check out my reposi
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharupase258&theme=dark&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharupase258&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharupase258&theme=dark&hide_border=false&layout=compact" height="150" />
-</div>
-
----
-
-![Tushar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharupase258&theme=github-dark)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=tusharupase258&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tusharupase258&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharupase258&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
